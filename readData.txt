@@ -1,0 +1,21 @@
+20
+AirUkraine 123 Paris
+AirUkraine 777 Lviv
+AirExpress 500 London
+AeroCanada 900 Sydney
+BlueSky 200 Rome
+AirExpress 1000 Dubai
+FlyHigh 333 Barcelona
+AirSwift 800 Lviv
+StarJet 600 Beijing
+SunAir 400 Paris
+AirUkraine 999 CapeTown
+CityWings 250 Bangkok
+AirOne 150 NewYork
+GlobalFlyer 550 Berlin
+StarJet 700 LosAngeles
+AirConnect 850 Istanbul
+OceanAir 950 RioDeJaneiro
+SkyExpress 50 Amsterdam
+JetStream 300 Amsterdam
+AirWave 75 Amsterdam
